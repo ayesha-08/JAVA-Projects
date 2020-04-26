@@ -8,10 +8,9 @@ class AsciiVal{
  switch (val) {
 
     case 1:
-        //  print for input take input then     convert it type cast now to run the program we need terminal
         System.out.println("Enter ur alphabet");
         char val2=in.next().charAt(0);
-        int charval;// casting me prob ?? no idea  wait i hv written  in no need of  kk a noten book ek number na topper chalo exit wala kk dehkte
+        int charval;
         charval = (int)val2;
         System.out.println("ASCII Value of given Alphabet:" +charval);       
         break;
