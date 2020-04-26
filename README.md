@@ -8,7 +8,7 @@ javac AsciiVal.java
 
 # *Run AsciiVal*
 ```
-java AsciiVal.java
+java AsciiVal
 ```
 
 # *Options*
